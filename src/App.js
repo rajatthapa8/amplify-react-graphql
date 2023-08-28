@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h3>Hello AWS Amplify!!!</h3>
+        <p>Configured Amplify CLI and Amplify App</p>
       </header>
     </div>
   );
